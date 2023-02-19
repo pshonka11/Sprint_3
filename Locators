@@ -1,0 +1,11 @@
+//*[@id="root"]/div/main/section[2]/div/button # кнопка "Войти"
+//*[@id="root"]/div/main/div/div/p[1]/a # кнопка "Регистрация"
+//*[@id="root"]/div/main/div/form/fieldset[1]/div/div/input # поле для имени в регистрации
+//*[@id="root"]/div/main/div/form/fieldset[2]/div/div/input # поле для почты в регистрации
+//*[@id="root"]/div/main/div/form/fieldset[3]/div/div/input # поле для пароля в регистрации
+//*[@id="root"]/div/main/div/form/button # кнопка "Зарегистрироваться" в разделе с регистрацией
+//*[@id="root"]/div/main/div/form/fieldset[1]/div/div/input # поле с почтой для входа
+//*[@id="root"]/div/main/div/form/fieldset[2]/div/div/input # поле с паролем для входа
+//*[@id="root"]/div/main/div/form/button # кнопка "Войти" в разделе для авторизации
+//*[@id="root"]/div/main/div/form/fieldset[3]/div/p # надпись о некорректном пароле при попытке регистрации
+//*[@id="root"]/div/main/div/div/p[2]/a # кнопка "Забыли пароль"
