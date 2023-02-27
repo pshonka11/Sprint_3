@@ -21,5 +21,3 @@ def test_log_in_via_via_voiti():
         expected_conditions.visibility_of_element_located(
             (By.XPATH, ".// button[contains(text(), 'Оформить заказ')]"))).text == 'Оформить заказ'
 
-# Закрыть браузер
-    driver.quit()

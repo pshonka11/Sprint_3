@@ -25,6 +25,3 @@ def test_surf_nachinki():
     fillings = WebDriverWait(driver, 10).until(
             EC.visibility_of_element_located((By.XPATH, ".//div/main/section[1]/div[2]/ul[3]/a[1]/p"))).text
     assert fillings == 'Мясо бессмертных моллюсков Protostomia'
-
-# Закрыть браузер
-    driver.quit()

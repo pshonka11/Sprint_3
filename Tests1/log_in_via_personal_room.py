@@ -21,6 +21,3 @@ def test_log_in_via_personal_room():
     assert WebDriverWait(driver, 3).until(
         expected_conditions.visibility_of_element_located(
             (By.XPATH, ".// button[contains(text(), 'Оформить заказ')]"))).text == 'Оформить заказ'
-
-# Закрыть браузер
-    driver.quit()

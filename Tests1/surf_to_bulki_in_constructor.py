@@ -1,3 +1,4 @@
+# У меня этот тест не валится
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
@@ -32,6 +33,3 @@ def test_surf_bulki():
     rolls = WebDriverWait(driver, 10).until(
         EC.visibility_of_element_located((By.XPATH, ".//div/main/section[1]/div[2]/ul[1]/a[1]/p"))).text
     assert rolls == 'Флюоресцентная булка R2-D3'
-
-# Закрыть браузер
-    driver.quit()

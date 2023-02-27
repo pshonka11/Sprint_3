@@ -23,6 +23,3 @@ def test_registration_failed_shows_error():
 
 # Найди надпись об ошибке, получить её текст и проверить, что он равен 'Некорректный пароль'
     assert driver.find_element(By.XPATH, '//*[@id="root"]/div/main/div/form/fieldset[3]/div/p').text == 'Некорректный пароль'
-
-# Закрыть браузер
-    driver.quit()

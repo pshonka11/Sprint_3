@@ -28,5 +28,3 @@ def test_registration():
     current_url = driver.current_url
     assert 'login' in current_url
 
-# Закрыть браузер
-    driver.quit()

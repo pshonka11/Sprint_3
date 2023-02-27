@@ -1,3 +1,4 @@
+# У меня этот тест не валится
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
@@ -27,6 +28,3 @@ def test_log_out_via_personal_room():
     assert WebDriverWait(driver, 3).until(
         expected_conditions.visibility_of_element_located(
             (By.XPATH, "//button[contains(text(),'Войти')]"))).text == 'Войти'
-
-# Закрыть браузер
-    driver.quit()

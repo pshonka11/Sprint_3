@@ -24,6 +24,3 @@ def test_surf_to_sousy_in_constructor():
     sauces = WebDriverWait(driver, 10).until(
         EC.visibility_of_element_located((By.XPATH, ".//div/main/section[1]/div[2]/ul[2]/a[1]/p"))).text
     assert sauces == 'Соус Spicy-X'
-
-# Закрыть браузер
-    driver.quit()
