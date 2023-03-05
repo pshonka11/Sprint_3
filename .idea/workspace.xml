@@ -4,31 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e485fca0-3ec6-43a0-8638-7edec5cca957" name="Changes" comment="Sprint_3">
-      <change afterPath="$PROJECT_DIR$/Tests1/test_log_out_via_exit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests1/test_log_out_via_exit_in_personal_room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests1/test_surf_by_logo_stellar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests1/test_surf_from_personal_room_to_constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests1/test_surf_to_personal_room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locators/page_locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/Locators" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/Registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_registration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/Registration_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_registration_error.py" afterDir="false" />
+    <list default="true" id="e485fca0-3ec6-43a0-8638-7edec5cca957" name="Changes" comment="added corrected names">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests1/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/conftst.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/log_in_via_forgot_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_forgot_password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/log_in_via_personal_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_personal_room.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/log_in_via_voiti.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/log_in_via_voiti_in_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti_in_registration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/log_out_via_exit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/log_out_via_exit_in_personal_room.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/surf_by_logo_stellar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/surf_from_personal_room_to_constructor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/surf_to_bulki_in_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_bulki_in_constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/surf_to_nachinki_in_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_nachinki_in_constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/surf_to_personal_room.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/surf_to_sousy_in_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_sousy_in_constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_log_in_via_forgot_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_forgot_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_log_in_via_personal_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_personal_room.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti_in_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti_in_registration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_log_out_via_exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_out_via_exit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_log_out_via_exit_in_personal_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_out_via_exit_in_personal_room.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_registration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_registration_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_registration_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_by_logo_stellar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_by_logo_stellar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_from_personal_room_to_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_from_personal_room_to_constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_to_bulki_in_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_bulki_in_constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_to_nachinki_in_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_nachinki_in_constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_to_personal_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_personal_room.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_to_sousy_in_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_sousy_in_constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/page_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/page_locators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,53 +57,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/locators" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_registration.test_registration">
-    <configuration name="locators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Sprint_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests1/locators.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="page_locators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Sprint_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locators/page_locators.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for Tests1.test_surf_by_logo_stellar.test_transition_by_logo_stellar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_log_out_via_exit_in_personal_room.test_log_out_via_personal_room">
+    <configuration name="Python tests for test_log_out_via_exit_in_personal_room.test_log_out_via_personal_room" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Sprint_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +72,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Tests1.test_surf_by_logo_stellar.test_transition_by_logo_stellar&quot;" />
+      <option name="_new_target" value="&quot;test_log_out_via_exit_in_personal_room.test_log_out_via_personal_room&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Tests1.test_surf_from_personal_room_to_constructor.test_surf_from_personal_room_by_constructor" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_surf_to_bulki_in_constructor.test_surf_to_bulki_in_constructor" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Sprint_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +86,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Tests1.test_surf_from_personal_room_to_constructor.test_surf_from_personal_room_by_constructor&quot;" />
+      <option name="_new_target" value="&quot;test_surf_to_bulki_in_constructor.test_surf_to_bulki_in_constructor&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_registration.test_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_surf_to_nachinki_in_constructor.test_surf_nachinki" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Sprint_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +100,35 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_registration.test_registration&quot;" />
+      <option name="_new_target" value="&quot;test_surf_to_nachinki_in_constructor.test_surf_nachinki&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_surf_to_personal_room.test_surf_personal_room" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_surf_to_personal_room.test_surf_personal_room&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_surf_to_sousy_in_constructor.test_surf_to_sousy_in_constructor" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_surf_to_sousy_in_constructor.test_surf_to_sousy_in_constructor&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -185,20 +165,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.locators" />
-      <item itemvalue="Python.page_locators" />
       <item itemvalue="Python tests.Python tests in /" />
-      <item itemvalue="Python tests.Python tests for test_registration.test_registration" />
-      <item itemvalue="Python tests.Python tests for Tests1.test_surf_by_logo_stellar.test_transition_by_logo_stellar" />
-      <item itemvalue="Python tests.Python tests for Tests1.test_surf_from_personal_room_to_constructor.test_surf_from_personal_room_by_constructor" />
+      <item itemvalue="Python tests.Python tests for test_log_out_via_exit_in_personal_room.test_log_out_via_personal_room" />
+      <item itemvalue="Python tests.Python tests for test_surf_to_bulki_in_constructor.test_surf_to_bulki_in_constructor" />
+      <item itemvalue="Python tests.Python tests for test_surf_to_nachinki_in_constructor.test_surf_nachinki" />
+      <item itemvalue="Python tests.Python tests for test_surf_to_personal_room.test_surf_personal_room" />
+      <item itemvalue="Python tests.Python tests for test_surf_to_sousy_in_constructor.test_surf_to_sousy_in_constructor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_registration.test_registration" />
-        <item itemvalue="Python.page_locators" />
-        <item itemvalue="Python.locators" />
-        <item itemvalue="Python tests.Python tests for Tests1.test_surf_by_logo_stellar.test_transition_by_logo_stellar" />
-        <item itemvalue="Python tests.Python tests for Tests1.test_surf_from_personal_room_to_constructor.test_surf_from_personal_room_by_constructor" />
+        <item itemvalue="Python tests.Python tests for test_log_out_via_exit_in_personal_room.test_log_out_via_personal_room" />
+        <item itemvalue="Python tests.Python tests for test_surf_to_personal_room.test_surf_personal_room" />
+        <item itemvalue="Python tests.Python tests for test_surf_to_sousy_in_constructor.test_surf_to_sousy_in_constructor" />
+        <item itemvalue="Python tests.Python tests for test_surf_to_nachinki_in_constructor.test_surf_nachinki" />
+        <item itemvalue="Python tests.Python tests for test_surf_to_bulki_in_constructor.test_surf_to_bulki_in_constructor" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677526853256</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added corrected names">
+      <created>1677842764636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677842764636</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added corrected names">
+      <created>1677842772043</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677842772043</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,17 +263,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sprint_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint_3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tests1/test_registration.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="added corrected names" />
+    <option name="LAST_COMMIT_MESSAGE" value="added corrected names" />
   </component>
 </project>
