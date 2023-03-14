@@ -10,8 +10,8 @@ def test_log_in_via_personal_room(get_driver):
     WebDriverWait(get_driver, 10).until(EC.element_to_be_clickable(PagesLocators.PERSONAL_ACCOUNT)).click()
 
 # Ввести логин и пароль
-    WebDriverWait(get_driver, 10).until(EC.element_to_be_clickable(PagesLocators.EMAIL)).send_keys('alena_vezdeneva_6_126@yandex.ru')
-    WebDriverWait(get_driver, 10).until(EC.element_to_be_clickable(PagesLocators.PASSWORD)).send_keys('123426')
+    WebDriverWait(get_driver, 15).until(EC.element_to_be_clickable(PagesLocators.EMAIL)).send_keys('alena_vezdeneva_6_126@yandex.ru')
+    WebDriverWait(get_driver, 15).until(EC.element_to_be_clickable(PagesLocators.PASSWORD)).send_keys('123426')
 
 # Нажать кнопку "Войти"
     WebDriverWait(get_driver, 10).until(EC.element_to_be_clickable(PagesLocators.ENTER)).click()

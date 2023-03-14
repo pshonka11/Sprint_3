@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e485fca0-3ec6-43a0-8638-7edec5cca957" name="Changes" comment="added corrected names">
+    <list default="true" id="e485fca0-3ec6-43a0-8638-7edec5cca957" name="Changes" comment="Исправила ошибки во всех файлах">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_log_in_via_forgot_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_forgot_password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_log_in_via_personal_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_personal_room.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti_in_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_in_via_voiti_in_registration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_log_out_via_exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_out_via_exit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_log_out_via_exit_in_personal_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_log_out_via_exit_in_personal_room.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_registration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_registration_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_registration_error.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_by_logo_stellar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_by_logo_stellar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_from_personal_room_to_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_from_personal_room_to_constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_to_bulki_in_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_bulki_in_constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_to_nachinki_in_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_nachinki_in_constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_to_personal_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_personal_room.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests1/test_surf_to_sousy_in_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests1/test_surf_to_sousy_in_constructor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/page_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/page_locators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677842772043</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Исправила ошибки во всех файлах">
+      <created>1678036633286</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678036633286</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +255,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sprint_3" />
     <MESSAGE value="added corrected names" />
-    <option name="LAST_COMMIT_MESSAGE" value="added corrected names" />
+    <MESSAGE value="Исправила ошибки во всех файлах" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправила ошибки во всех файлах" />
   </component>
 </project>
